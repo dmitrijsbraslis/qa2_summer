@@ -9,6 +9,7 @@ public class OurFirstTest {
 
     @Test
     public void showSum() {
+        //Da poshlo ono vsjjo na ******
         Integer c;
         Integer d;
 
